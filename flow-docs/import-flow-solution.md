@@ -31,7 +31,7 @@ ms.locfileid: "51025792"
 
 Po wyeksportowanej rozwiązania można zaimportować je do dowolnego środowiska, które spełnia wymagania wstępne. Wykonaj następujące kroki, aby zaimportować rozwiązanie:
 
-1. Zaloguj się w usłudze Microsoft Flow, a następnie wybierz pozycję **Rozwiązania** na pasku nawigacyjnym.
+1. Zaloguj się w usłudze Microsoft Flow, a następnie wybierz pozycję **Moje przepływy** na pasku nawigacyjnym.
 
    ![](./media/import-flow-solution/select-solutions-from-left-nav.png)
 
